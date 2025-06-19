@@ -29,6 +29,6 @@
         {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
         {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 80},
 	{"name": "Arduino Programming", "icon": "fas fa-arduino ide", "level": 85},
-        {"name": "Desain PCB", "icon": "fab fa-Proteus", "level": 90},
+        {"name": "Desain PCB", "icon": "fab fa-proteus", "level": 90},
     ]
 }
