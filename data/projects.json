@@ -1,11 +1,11 @@
 [
     {
-        "title": "FPGA-based System for Continuous Vital Signs Monitoring",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
+        "title": "Robot Line Follower",
+        "year": "2024",
+        "fund": "Rp 500.000,00",
+        "partner": "work in group",
+        "role": "Engineer",
+        "description": "Line Follower Robot is an autonomous robot designed to follow a path with black lines on a white surface or vice versa. My group and I got this project in the 4th semester of the robotics course. This robot walks by following a path and can also turn. The main components are an infrared sensor, microcontroller, motor driver, DC motor/servo.",
         "image": "images/project1.png",
         "link": "https://example.com/solar-water"
     },
