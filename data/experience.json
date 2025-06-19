@@ -12,19 +12,5 @@
         "position": "Chief",
         "year": "2023 - 2024",
         "description": "Squadra is part of the supporters of the Polynesian electro sports team which is directly supported by the association. I was trusted to serve as chairman using an electoral system. This is part of my experience, namely organizing."
-    },
-    {
-        "company": "Epson Indonesia Industry",
-		"logo":"images/epson-logo.png",
-        "position": "Failure Analyst",
-        "year": "2015 - 2016",
-        "description": "Control the quality of electronic part production for various printer models, analyze product defects, and provide recommendations to address issues or identify potential root causes."
-    },
-	{
-        "company": "Lembaga Ilmu Pengetahuan Indonesia",
-		"logo":"images/lipi-logo.png",
-        "position": "Automation",
-        "year": "2014",
-        "description": "I have built an embedded system for water sampling and designed and implemented a wireless sensor network for monitoring shrimp fields. Additionally, I authored an academic paper for international publication titled [A wireless sensor network platform for shrimp farm monitoring](https://ieee.org/abstract/document/7237850), which has received 40 citations."
     }
 ]
