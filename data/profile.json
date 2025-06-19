@@ -24,10 +24,10 @@
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-        {"name": "plc programming", "icon": "fas fa-cx progammer", "level": 90},
+        {"name": "plc programmer", "icon": "fas fa-cx progammer", "level": 90},
         {"name": "Robotic", "icon": "fas fa-webots", "level": 80},
         {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
-        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 80},
+        {"name": "Hardware Designer", "icon": "fas fa-desktop", "level": 80},
 	{"name": "Arduino Programming", "icon": "fas fa-arduino ide", "level": 85},
         {"name": "Desain PCB", "icon": "fab fa-proteus", "level": 90}
     ]
