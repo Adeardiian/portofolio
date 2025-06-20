@@ -8,5 +8,16 @@
         "description": "Line Follower Robot is an autonomous robot designed to follow a path with black lines on a white surface or vice versa. My group and I got this project in the 4th semester of the robotics course. This robot walks by following a path and can also turn. The main components are an infrared sensor, microcontroller, motor driver, DC motor/servo.",
         "image": "images/pict-line-follower.jfif",
         "link": "https://example.com/solar-water"
-	}
+    },
+    {
+	"title": "Monitoring smartcage dengan Rasp",
+        "year": "2025",
+        "fund": "Rp 2.000.000,00",
+        "partner": "work in group",
+        "role": "Engineer",
+        "description": "SmartCage with Raspberry Pi is a smart cage solution designed to monitor and regulate the environmental conditions of pets or experimental animals automatically using Raspberry Pi as the brain. by using a raspberry pi and sensors and esp32 this tool can function well.",
+        "image": "images/pict-line-follower.jfif",
+        "link": "https://example.com/solar-water"
+    }
+	
 ]
